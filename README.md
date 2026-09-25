@@ -48,7 +48,7 @@ CONFIG = {
 
 사용법
 bash
-python web_bruteforce.py
+python Web_Bruteforce.py
 
 실행하면 먼저 실패 응답을 수집해 판정 기준을 만든 뒤, 공격을 시작한다. 비밀번호를 찾으면 S_ID_PASSWORD.txt에 저장된다.
 
