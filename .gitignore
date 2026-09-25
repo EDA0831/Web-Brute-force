@@ -1,0 +1,9 @@
+*.txt
+!requirements.txt
+S_ID_PASSWORD.txt
+error.txt
+user_error.txt
+__pycache__/
+*.pyc
+.venv/
+venv/
